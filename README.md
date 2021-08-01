@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamrajan77
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on webdevelopment ps: i will do the backend
 - 📫 How to reach me najar.poudel90@gmail.com, insta iam_rajan77
 
 <!---
